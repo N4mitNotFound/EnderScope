@@ -9,10 +9,10 @@ EnderScope turns Minecraft's local player-statistics JSON into readable metrics,
 
 ## Features
 
-- Cyberpunk-inspired dark UI with neon cyan and magenta accents
+- A dark UI with neon cyan and magenta accents
 - Demo mode for immediate testing
-- Upload a Minecraft Java Edition statistics JSON file
-- Mining analytics and per-mob kill charts
+- Upload a Minecraft (Java Edition) statistics JSON file
+- Mining analytics and mob kill charts
 - Play time, walking/sprinting distance, jumps, deaths, and other available custom statistics
 - Item activity tables for broken, crafted, used, picked-up, and dropped items
 - Searchable mining table
