@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Personal Minecraft data: do not commit player/world stats
+*.minecraft.json
+player-stats/
+private-world-data/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

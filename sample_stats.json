@@ -1,0 +1,46 @@
+{
+  "DataVersion": 0,
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:stone": 1250,
+      "minecraft:deepslate": 820,
+      "minecraft:dirt": 410,
+      "minecraft:coal_ore": 95,
+      "minecraft:iron_ore": 72,
+      "minecraft:diamond_ore": 8
+    },
+    "minecraft:custom": {
+      "minecraft:play_time": 144000,
+      "minecraft:walk_one_cm": 850000,
+      "minecraft:sprint_one_cm": 320000,
+      "minecraft:jump": 1200,
+      "minecraft:deaths": 3,
+      "minecraft:damage_dealt": 2480,
+      "minecraft:mob_kills": 69,
+      "minecraft:animals_bred": 6
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 42,
+      "minecraft:skeleton": 18,
+      "minecraft:creeper": 9
+    },
+    "minecraft:broken": {
+      "minecraft:iron_pickaxe": 2,
+      "minecraft:stone_pickaxe": 5
+    },
+    "minecraft:crafted": {
+      "minecraft:torch": 128,
+      "minecraft:iron_pickaxe": 2
+    },
+    "minecraft:used": {
+      "minecraft:diamond_pickaxe": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:diamond": 8,
+      "minecraft:iron_ingot": 72
+    },
+    "minecraft:dropped": {
+      "minecraft:cobblestone": 64
+    }
+  }
+}
