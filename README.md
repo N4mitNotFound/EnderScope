@@ -24,9 +24,9 @@ EnderScope turns Minecraft's local player-statistics JSON into readable metrics,
 
 These are **illustrative UI previews** using fictional demo values, included so the repository has a visual preview before you run the app. The live dashboard renders its charts and tables from the bundled demo data or an uploaded Minecraft statistics JSON file.
 
-![EnderScope dashboard overview](docs/enderscope-dashboard.png)
+![EnderScope dashboard overview](enderscope-dashboard.png)
 
-![EnderScope mining and inventory details](docs/enderscope-details.png)
+![EnderScope mining and inventory details](enderscope-details.png)
 
 ## Requirements
 
